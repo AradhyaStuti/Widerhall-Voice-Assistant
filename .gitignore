@@ -1,0 +1,22 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Secrets / config
+.env
+
+# User data
+notes.txt
+
+# System files
+.DS_Store
