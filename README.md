@@ -156,10 +156,6 @@ notes.txt           created when you first take a note
 - Email and WhatsApp dictation
 - Persistent reminders / calendar
 
-## License
-
-MIT.
-
 ## Author
 
 Aradhya Stuti — <https://github.com/AradhyaStuti>
